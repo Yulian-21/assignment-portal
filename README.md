@@ -8,7 +8,7 @@ This project is a web application for assignment submission that allows users to
 First, clone the repository to local machine:
 
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/Yulian-21/assignment-portal.git
 ```
 
 ### 2. Install Dependencies
