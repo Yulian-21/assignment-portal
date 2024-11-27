@@ -46,23 +46,15 @@ To run the tests that verify the functionality of application, use the following
 npm run test
 ```
 
-## All scripts: 
+## Other scripts: 
 
 Scripts
+```bash
 npm run dev
+```
 Runs the Next.js development server with Turbopack.
 
-npm run build
-Builds the project for production.
-
-npm run serve
-Builds the project and serves it in a production environment.
-
-npm run start
-Starts the production server after the project has been built.
-
+```bash
 npm run lint
+```
 Runs ESLint to check the code for issues related to code quality.
-
-npm test
-Runs tests using Jest.
